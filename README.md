@@ -3,7 +3,7 @@
  **OBS.: TEM QUE FAZER A SEGURANÇA DOS DADOS** <br>
  Este projeto e licenciado sob a licensa **GPLv3**
  <br>
-  <a href="doc.md">**Documentação**</a>
+  <a href="https://github.com/CarlosHenrique13/GSenha-Gratis/blob/main/doc.md">**Documentação**</a>
 
 
 ## Atualizações
